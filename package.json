@@ -1,0 +1,1 @@
+{"name":"atelier-francais","version":"1.0.0","private":true,"description":"Site estático de aprendizado de francês em português","scripts":{"dev":"node dev-server.mjs","start":"node dev-server.mjs","check":"node --check app.js && node --check conteudo.js && node --check guia.js"}}
